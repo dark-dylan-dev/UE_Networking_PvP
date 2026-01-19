@@ -1,0 +1,23 @@
+PvP (Mêlée Générale)
+
+--- Partie en cooldown de 5 minutes ---
+
+Lobby 5000x5000 from spawn
+
+Peut se lancer à partir de 2 joueurs - max 8 joueurs
+Joueur :
+- Kill count
+- Death count
+- Maybe... assist count
+
+Winner = Avg(Nb kills, Ratio (K/D))
+Si winner = second -> départager random
+
+Interactables : 
+- Shield (+100hp)
+- Pump (20 balles, 50 dégâts par balle)
+- M4 (200 balles, 10 dégâts par balle)
+
+Base :
+- 50hp
+- Pistol (50 balles, 20 dégâts par balle)
