@@ -21,3 +21,5 @@ Interactables :
 Base :
 - 50hp
 - Pistol (50 balles, 20 dégâts par balle)
+
+Previous commit bugfix idea: Move HUD to PlayerState instead of PlayerController
