@@ -8,7 +8,6 @@ Peut se lancer à partir de 2 joueurs - max 8 joueurs
 Joueur :
 - Kill count
 - Death count
-- Maybe... assist count
 
 Winner = Avg(Nb kills, Ratio (K/D))
 Si winner = second -> départager random
@@ -21,5 +20,3 @@ Interactables :
 Base :
 - 50hp
 - Pistol (50 balles, 20 dégâts par balle)
-
-Previous commit bugfix idea: Move HUD to PlayerState instead of PlayerController
