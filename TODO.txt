@@ -1,0 +1,13 @@
+TODO:
+
+- DocumentationProjet:
+	Concept (pitch + règles)
+	Fonctionnalités réalisées
+	Fonctionnalités non réalisées (et pourquoi)
+	Schéma simple de l’architecture réseau (qui gère quoi)
+	Liste des assets externes utilisés (sources -> pixabay, steamcommunity, fab)
+
+- Gameplay:
+	Create & host / search & join session
+	AnimMontage (fire, onHit, reload)
+	Set name in start menu
