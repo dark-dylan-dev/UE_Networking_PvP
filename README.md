@@ -30,8 +30,8 @@ You will need :
 
  Then, run the following commands inside a terminal :
 ```bash
-git clone https://github.com/Quest-Education-Group/par-2-atari-s2p1-08
-cd par-2-atari-s2p1-08
+git clone https://github.com/dark-dylan-dev/UE_Networking_PvP
+cd UE_Networking_PvP
 ```
 Finally, open the `UE_Networking_PvP.uproject` file with Unreal Engine 5.6.1.
 
