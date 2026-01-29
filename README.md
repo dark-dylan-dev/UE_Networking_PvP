@@ -15,8 +15,8 @@ You will need :
 
  Then, run the following commands inside a terminal :
 ```bash
-git clone https://github.com/Quest-Education-Group/par-2-atari-s2p1-19
-cd par-2-atari-s2p1-19
+git clone https://github.com/Quest-Education-Group/par-2-atari-s2p1-08
+cd par-2-atari-s2p1-08
 ```
 Finally, open the `UE_Networking_PvP.uproject` file with Unreal Engine 5.6.1.
 
