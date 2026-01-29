@@ -42,6 +42,15 @@ Inside Unreal Engine, go to `Platforms > Windows` and click `Package Project` af
 
 ![Inside the Editor, to the right of the play / pause buttons](Static/how-to-build.png)
 
+# Run the project inside the Editor
+Press the `Play` button with the number of players in the multiplayer options (to the right of the play button, ellipsis) higher than one.
+
+Once the game has launched: 
+ - Click the name field and set a name to your player then hit Enter.
+ - Press the "Host Game" button on any of the clients to create a game.
+ - Press the "Find Game" button on the remaining clients and choose your preferred lobby to join the earlier created game.
+ - Have fun!
+
 # Project documentation
 To read the project documentation, go to the [documentation](https://docs.google.com/document/d/1hRemBBPszJ3nfBCIX1RQfTWxr-kLKotqli1SUXxr2Eg/edit?usp=sharing) google docs.
 
